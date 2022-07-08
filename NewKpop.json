@@ -26,6 +26,24 @@
   {
     "id": 1,
     "album": "",
+    "artist": "NAEYON",
+    "duration": "2:50",
+    "image": "https://vignette.wikia.nocookie.net/twicenation/images/8/8d/Happy_Happy_Nayeon_Profile.jpg",
+    "title": "POP!",
+    "url": "http://docs.google.com/uc?xport=download&id=14oZ-5ZTnKWlkrgXLRXqRweGix_4aLQcK"
+  },
+  {
+    "id": 1,
+    "album": "",
+    "artist": "NAEYON",
+    "duration": "3:16",
+    "image": "https://vignette.wikia.nocookie.net/twicenation/images/8/8d/Happy_Happy_Nayeon_Profile.jpg",
+    "title": "NO PROBLEM",
+    "url": "http://docs.google.com/uc?xport=download&id=1qpDOnVWIKpRQcRf7XNEDb-XhqHLVhS9p"
+  },
+  {
+    "id": 1,
+    "album": "",
     "artist": "STAYC",
     "duration": "3:34",
     "image": "http://cm1.narvii.com/8139/0f1530c11fceda82de767c93e32316626d2f467e_00.jpg",
